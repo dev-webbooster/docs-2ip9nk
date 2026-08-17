@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-gw4j33.biggamingwin.xyz/sitemap.xml
